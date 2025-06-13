@@ -38,22 +38,3 @@ A modern e-commerce platform built with HTML, CSS, and JavaScript. This project 
 1. Clone the repository
 2. Open `index.html` in your browser
 3. No build process required - it's a static website
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## Contributing
-
-Feel free to submit issues and enhancement requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For any queries, please reach out to support@shopease.com
